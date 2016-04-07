@@ -1,0 +1,30 @@
+{
+  "name": "gettingstartedmongodb",
+  "version": "0.0.1",
+  "description": "Getting started guide, with mongodb native driver CRUD",
+  "main": "find.js",
+  "dependencies": {
+    "mongodb": "^2.0.44"
+  },
+  "devDependencies": {},
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keanodejs/09_getting_started_mongodb_native_driver.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "CRUD",
+    "Native",
+    "Driver",
+    "2.0.0"
+  ],
+  "author": "clbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keanodejs/09_getting_started_mongodb_native_driver/issues"
+  },
+  "homepage": "https://github.com/keanodejs/09_getting_started_mongodb_native_driver#readme"
+}
