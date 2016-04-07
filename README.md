@@ -1,2 +1,2 @@
-# 09_getting_started_mongodb_native_driver
+# 09 Getting started mongodb native driver
 Basic use of MongoDb native driver in Node.js
